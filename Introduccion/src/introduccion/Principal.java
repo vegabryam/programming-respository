@@ -5,6 +5,8 @@
  */
 package introduccion;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Estudiante
@@ -18,7 +20,7 @@ public class Principal {
         // TODO code application logic here
         //version 1.0
         System.out.println("Hola mundo");
-        
+        JOptionPane.showMessageDialog(null,"hola","error",JOptionPane.INFORMATION_MESSAGE);
         
     }
     
