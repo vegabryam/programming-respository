@@ -17,7 +17,7 @@ public class Principal {
     public static void main(String[] args) {
         // TODO code application logic here
         //version 1.0
-        System.out.println("Hola");
+        System.out.println("Hola mundo");
         
         
     }
